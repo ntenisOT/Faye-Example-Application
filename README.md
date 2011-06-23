@@ -50,6 +50,7 @@ Changing Files:
 ---------------
 
 Change the following files with your Faye Server URL:
+
 1. app / views / layouts / application.html.erb
 2. app / helpers / application_helper.rb	
 3. public / javascripts / application.js
