@@ -68,3 +68,7 @@ References
 * Heroku - http://heroku.com
 * Railcast Episode 260 - http://railscasts.com/episodes/260-messaging-with-faye
 * Railcast Episode 260 Source code - https://github.com/ryanb/railscasts-episodes/tree/master/episode-260/
+
+Special Thanks
+--------------
+* James Coglan - Faye Developer
