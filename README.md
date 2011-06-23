@@ -74,6 +74,33 @@ Push files to Heroku:
 
 Go to you provided by Heroku link and check that your application is working!
 
+Read More - More Examples
+-------------------------
+
+Faye Example Application: No need to run it on Cedar! 
+
+	http://fayeexample.heroku.com/ 
+	
+	Source code: 
+
+	https://github.com/ntenisOT/Faye-Example-Application 
+
+Faye Server on Heroku Cedar without RedisToGo: 
+	
+	http://fayeserverexample.herokuapp.com/ 
+	
+	Source code: 
+
+	https://github.com/ntenisOT/Faye-Heroku-Cedar 
+
+Faye Server on Heroku Cedar with RedisToGo: 
+
+	http://fayeredis.herokuapp.com 
+
+	Source code: 
+	
+	https://github.com/ntenisOT/Faye-Heroku-Cedar-RedisToGo
+
 References
 ----------
 * Faye - http://faye.jcoglan.com/
